@@ -1,0 +1,69 @@
+.section1
+{
+    padding:100px;
+}
+
+.image1
+{
+    width:500px;
+}
+.section1_col1
+{
+    padding:150px;
+}
+
+.section2
+{
+    background-color: #466393;
+    padding:60px;
+}
+
+.section2 h3
+{
+    color:white;
+}
+
+.section2 p
+{
+     color:white;
+}
+
+.mybutton
+{
+    border-radius: 20px;
+    padding:10px;
+    background:rgba(255, 255, 255, 0.05);
+    width:180px;
+    border:none;
+    color:white;
+}
+
+.box1
+{
+    display: inline-grid; /* Take only neccessary Space */
+    width:40%;
+}
+
+.box1 h4,p
+{
+    color:white;
+}
+
+.box2
+{
+    display: flex;
+    flex-wrap: wrap;
+    padding:10px;
+}
+
+.box2_innerbox img
+{
+    width:100px;
+    margin-left:100px;
+    margin-top:20px;
+}
+
+.box2_innerbox img:hover
+{
+    transform: scale(1.1);
+}
